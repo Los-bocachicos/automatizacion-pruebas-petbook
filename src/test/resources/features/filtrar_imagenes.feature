@@ -6,4 +6,7 @@ Característica: Filtrar imagenes
 
   Escenario: Filtrar perros
     Cuando Usuario filtra por Perro en petbook
-    Entonces debe ver solo fotos de perros
+    Entonces debe ver solo fotos de perro
+  Escenario: Filtrar gatos
+    Cuando Usuario filtra por Gato en petbook
+    Entonces debe ver solo fotos de gato
